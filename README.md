@@ -49,4 +49,4 @@ The project is written in a Jupyter Notebook, and the main file is
 `Traffic_Sign_Classifier.ipynb`.
 
 For a detailed explanation of the problem, and how it was solved, please
-read writeup.md.
+read [writeup.md](./writeup.md).
