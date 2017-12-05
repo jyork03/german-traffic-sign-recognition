@@ -1,0 +1,13 @@
+traffic-sign-data
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*.h5
+models
+*.swp
+*.p
+*.meta
+*.index
+*.data*
+checkpoint
+*.pickle
+.idea
